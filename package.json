@@ -1,5 +1,5 @@
 {
-  "name": "gulp-templade",
+  "name": "gulp-template",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EduardSergienko/gulp-templade.git"
+    "url": "git+https://github.com/EduardSergienko/gulp-template.git"
   },
   "author": "Eduard Sergienko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EduardSergienko/gulp-templade/issues"
+    "url": "https://github.com/EduardSergienko/gulp-template/issues"
   },
-  "homepage": "https://github.com/EduardSergienko/gulp-templade#readme",
+  "homepage": "https://github.com/EduardSergienko/gulp-template#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "webpack": "^5.75.0",
