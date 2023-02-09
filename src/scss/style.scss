@@ -1,18 +1,1 @@
-.text {
-  color: aqua;
-}
-.head {
-  color: blueviolet;
-}
-.item {
-  color: brown;
-  &:last-child {
-    margin-top: 50px;
-  }
-}
-body {
-  background-image: url("@img/858x540.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
+@import "./example/example";

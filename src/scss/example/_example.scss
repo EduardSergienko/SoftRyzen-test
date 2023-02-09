@@ -1,0 +1,16 @@
+.example {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  width: 250px;
+  height: 250px;
+  margin: auto;
+  &__title {
+    color: crimson;
+  }
+}
+.img {
+  display: block;
+  margin: auto;
+}
